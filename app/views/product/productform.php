@@ -60,7 +60,8 @@
       },
       messages: {
         pro_name:{
-          required: "Ông điền cái gì vào đây cho tôi!!!"
+          required: "Ông điền cái gì vào đây cho tôi!!!",
+          minlength: "Ông cần điền ít nhất 4 ký tự vào đây."
         }
       }
     });
